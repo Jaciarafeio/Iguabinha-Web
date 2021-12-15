@@ -5,6 +5,8 @@ require('dotenv-safe').config()
 
 const db = require('./database/mongoConfig')
 
+db.connect()
+
 const estabelecimentoRoutes = require('./routes/estabelecimentoRoutes')
 
 const app = express();
@@ -12,7 +14,5 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use("/estabelecimento", estabelecimentoRoutes);
-
-db.connect()
 
 module.exports = app

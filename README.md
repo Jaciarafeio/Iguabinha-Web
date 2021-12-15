@@ -1,15 +1,15 @@
 <img src="./assets/Iguabinha.png"
-width="100%">
+width="50%">
 
-# API - IGUABINHA WEB
+# API Rest Full - IGUABINHA WEB
 
 # TEMA: CONEXÃO IGUABINHA
 
 ## 🚀 Descrição
 
-    >Resido em um distrito chamado Iguabinha, pertencente a cidade de Araruama, na Região dos Lagos do Estado do Rio de Janeiro, sendo longe do Centro da Cidade e mais próximo a um outro município. Como um lugar onde o comércio é pequeno,são distantes um do outro e não há investimento em propaganda, resolvi através dessa plataforma minimizar o trabalho de procura por estabelecimentos e serviços para moradores e visitantes.<br>
+    >Resido em um distrito chamado Iguabinha, pertencente a cidade de Araruama, na Região dos Lagos do Estado do Rio de Janeiro, sendo longe do Centro da Cidade e mais próximo a um outro município. Como um lugar onde o comércio é pequeno,são distantes um do outro e não há investimento em propaganda, resolvi através dessa plataforma minimizar o trabalho de procura por estabelecimentos e serviços para moradores e visitantes.
 
-    >Assim, visando proporcionar acessibilidade às pessoas nasce a Iguabinha Web; uma plataforma onde moradores ou visitantes podem consultar todos os estabelecimentos e serviços que atendem a nossa região, como: mercado, padaria, farmácias, lanchonetes, posto de combustíveis, veterinária, restaurantes, posto de saúde e pronto socorro mais próximo, salão de cabelereiros, barbearia, etc.<br>
+    >Assim, visando proporcionar acessibilidade às pessoas nasce a Iguabinha Web; uma plataforma onde moradores ou visitantes podem consultar todos os estabelecimentos e serviços que atendem a nossa região, como: mercado, padaria, farmácias, lanchonetes, posto de combustíveis, veterinária, restaurantes, posto de saúde e pronto socorro mais próximo, salão de cabelereiros, barbearia, etc.
 
 
 # Sumário
@@ -23,11 +23,11 @@ width="100%">
 =================================
 ## ✅Objetivos
 
-- Facilitar a busca de todos os estabelecimentos e serviços que atendam o distrito de Iguabinha;
-- Buscar estabelecimentos e serviços por categoria; 
-- Permitir cadastro de novos estabelecimentos e serviços;
-- Atualizar cadastro de estabelecimentos e serviços e,
-- Deletar estabelecimentos e serviços.
+- Facilitar a busca de todos os estabelecimentos que atendam o distrito de Iguabinha;
+- Buscar estabelecimentos por categoria; 
+- Permitir cadastro de novos estabelecimentos;
+- Atualizar cadastro de estabelecimentos e,
+- Deletar estabelecimentos.
 
 ## ✅Tecnologias
 
@@ -39,11 +39,17 @@ Para a elaboração do projeto, as seguintes tecnologias foram utilizadas:
 - [Nodemon](https://nodemon.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [cors](https://www.npmjs.com/package/cors)
+- [MongoDbAtlas]()
+- [MongoCompass]()
+- [Postman]()
+- [Vscode]()
+- [Mongoose]()
+- [dotenv]()
 
 
 ## ✅Aprendizado
 
-Construção de API fundamentada no CRUD, que são:  CREATE (CRIAR), READ(LER-CONSULTAR), UPDATE(ATUALIZAR) e DELETE(DESTRUIR). 
+Construção de API Rest Full fundamentada no CRUD, que são:  CREATE (CRIAR), READ(LER-CONSULTAR), UPDATE(ATUALIZAR) e DELETE(DESTRUIR). 
 
 
 ## ✅Instruções para utilização da API
@@ -56,13 +62,12 @@ E como editor de código [VSCode](https://code.visualstudio.com/)
 
 Server Local
 
-```bash
 # Com o git
 # Clone este repositório
 $ git clone <git@github.com: https://github.com/Jaciarafeio/Iguabinha-Web
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd IGUABINHA WEB
+$ cd Iguabinha-Web
 # Instale as dependências
 $ npm install
 $ npm i mongoose
@@ -87,7 +92,7 @@ $ npm start
 
 - github: https://github.com/Jaciarafeio/Iguabinha-Web
 
-- heroku:
+- heroku: 
 
 
 
