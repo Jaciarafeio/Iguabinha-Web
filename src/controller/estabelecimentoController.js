@@ -15,7 +15,6 @@ const getAll = async (req, res) => {
 const createEstabelecimento = async (req, res) => {
     try {
         const newEstabelecimento = new EstabelecimentoSchema({
-            likes: req.body.likes,
             nome: req.body.nome,
             categoria: req.body.categoria,
             endereço: req.body.endereço,
@@ -67,7 +66,6 @@ const updateEstabelecimentoById = async (req, res) => {
         console.log(findEstabelecimento)
 
         if (findEstabelecimento) {
-            findEstabelecimento.likes = req.body.likes || findEstabelecimento.likes
             findEstabelecimento.nome = req.body.nome || findEstabelecimento.nome
             findEstabelecimento.categoria = req.body.categoria || findEstabelecimento.categoria
             findEstabelecimento.endereço = req.body.endereço || findEstabelecimento.endereço

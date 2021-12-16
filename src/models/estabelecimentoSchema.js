@@ -3,11 +3,6 @@ const mongoose = require('mongoose');
 const estabelecimentoSchema = new mongoose.Schema({
     id: mongoose.Schema.Types.ObjectId,
 
-    likes: {
-        type: Number,
-        required: true
-    },
-
     nome: {
         type: String,
         required: true

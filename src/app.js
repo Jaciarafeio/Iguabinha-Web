@@ -5,9 +5,9 @@ require('dotenv-safe').config()
 
 const db = require('./database/mongoConfig')
 
-db.connect()
-
 const estabelecimentoRoutes = require('./routes/estabelecimentoRoutes')
+
+db.connect()
 
 const app = express();
 

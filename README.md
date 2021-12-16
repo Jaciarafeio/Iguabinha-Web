@@ -12,7 +12,7 @@ width="30%">
 - Assim, visando proporcionar acessibilidade às pessoas nasce a Iguabinha Web; uma plataforma onde moradores ou visitantes podem consultar todos os estabelecimentos e serviços que atendem a nossa região, como: mercado, padaria, farmácias, lanchonetes, posto de combustíveis, veterinária, restaurantes, posto de saúde e pronto socorro mais próximo, salão de cabelereiros, barbearia, etc.
 
 
-# Sumário
+## Sumário
 =================================
 * [Objetivos](#objetivos)
 * [Tecnologias](#tecnologias)
@@ -58,17 +58,17 @@ Construção de API Rest Full fundamentada no CRUD, que são:  CREATE (CRIAR), R
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) 
 E como editor de código [VSCode](https://code.visualstudio.com/)
 
-### Rodando o Back End 
+## Rodando o Back End 
 
 Server Local
 
-# Com o git
-# Clone este repositório
+### Com o git
+### Clone este repositório
 $ git clone <git@github.com: https://github.com/Jaciarafeio/Iguabinha-Web
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd Iguabinha-Web
-# Instale as dependências
+
+### Instale as dependências
 $ npm install
 $ npm i mongoose
 $ npm i express
@@ -76,19 +76,19 @@ $ npm i nodemon
 $ npm i cors
 $ npm i dotenv-safe
 
-# Execute o servidor
+### Execute o servidor
 $ npm start
 
 
 * Utilize o [Postman](https://www.postman.com/) ou [Insomnia](https://insomnia.rest/download/) para chamar e testar os endpoints da API localmente ou via Heroku
 
 
-## ✅Rotas
+### ✅Rotas
 
 * local: http://localhost:7070
 
 
-## ✅Links:
+### ✅Links:
 
 - github: https://github.com/Jaciarafeio/Iguabinha-Web
 
