@@ -9,7 +9,7 @@ width="30%">
 
 - Resido em um distrito chamado Iguabinha, pertencente a cidade de Araruama, na Região dos Lagos do Estado do Rio de Janeiro, sendo longe do Centro da Cidade e mais próximo a um outro município. Como um lugar onde o comércio é pequeno,são distantes um do outro e não há investimento em propaganda, resolvi através dessa plataforma minimizar o trabalho de procura por estabelecimentos e serviços para moradores e visitantes.
 
-- Assim, visando proporcionar acessibilidade às pessoas nasce a Iguabinha Web; uma plataforma onde moradores ou visitantes podem consultar todos os estabelecimentos e serviços que atendem a nossa região, como: mercado, padaria, farmácias, lanchonetes, posto de combustíveis, veterinária, restaurantes, posto de saúde e pronto socorro mais próximo, salão de cabelereiros, barbearia, etc.
+- Assim, visando proporcionar acessibilidade às pessoas nasce a Iguabinha Web; uma plataforma onde moradores ou visitantes podem consultar todos os estabelecimentos e serviços que atendem a nossa região, como: mercado, padaria, farmácias, lanchonetes, posto de combustíveis, veterinária, restaurantes, posto de saúde e pronto socorro mais próximo.
 
 
 ## Sumário
