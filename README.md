@@ -13,14 +13,14 @@ width="30%">
 
 
 ## Sumário
-=================================
+
 * [Objetivos](#objetivos)
 * [Tecnologias](#tecnologias)
 * [Aprendizados](#aprendizados)
 * [Instruções para utilização da API](#instruções)
 * [Rotas](#rotas)
 
-=================================
+
 ## ✅Objetivos
 
 - Facilitar a busca de todos os estabelecimentos que atendam o distrito de Iguabinha;
@@ -62,11 +62,11 @@ E como editor de código [VSCode](https://code.visualstudio.com/)
 
 Server Local
 
-### Com o git
-### Clone este repositório
+### Com o git, clone este repositório:
+
 $ git clone <git@github.com: https://github.com/Jaciarafeio/Iguabinha-Web
 
-# Acesse a pasta do projeto no terminal/cmd
+### Acesse a pasta do projeto no terminal/cmd
 
 ### Instale as dependências
 $ npm install
@@ -92,7 +92,7 @@ $ npm start
 
 - github: https://github.com/Jaciarafeio/Iguabinha-Web
 
-- heroku: 
+- heroku: https://iguabinha-web.herokuapp.com/
 
 
 
