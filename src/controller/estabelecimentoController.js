@@ -66,6 +66,7 @@ const updateEstabelecimentoById = async (req, res) => {
         console.log(findEstabelecimento)
 
         if (findEstabelecimento) {
+            findEstabelecimento.id = req.body.id || findEstabelecimento.id
             findEstabelecimento.nome = req.body.nome || findEstabelecimento.nome
             findEstabelecimento.categoria = req.body.categoria || findEstabelecimento.categoria
             findEstabelecimento.endereço = req.body.endereço || findEstabelecimento.endereço
